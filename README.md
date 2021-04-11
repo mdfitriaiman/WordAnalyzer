@@ -7,4 +7,4 @@
 4) For counting vowel character function, use .length function as well as for loop to compare and count the vowels.
 5) Create a textbox to allow users to input any word in the textbox.
 6) Create a button to analyze the word by its vowel and consonant characters.
-7) Create a text that shows the output for number of character, vowels and consonants.
+7) Create a text that shows the output for number of character, vowels and consonants. 
